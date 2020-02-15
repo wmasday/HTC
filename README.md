@@ -23,7 +23,7 @@ More Information
     <tr>
         <td>Linux Ubuntu</td>
         <td>Pythonv3</td>
-        <td>Instagram : @keyword.ly</td>
+        <td>IG@keyword.ly</td>
     </tr>
 </table>
 
