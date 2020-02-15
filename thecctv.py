@@ -28,9 +28,9 @@ time.sleep(2)
 banner()
 
 time.sleep(1.5)
-host = input("{Fore.RED}host{Fore.WHITE}> ")
+host = input(f"{Fore.RED}host{Fore.WHITE}> ")
 time.sleep(1.5)
-port = input("{Fore.RED}port{Fore.WHITE}> ")
+port = input(f"{Fore.RED}port{Fore.WHITE}> ")
 
 os.system('clear')
 
